@@ -1,0 +1,5 @@
+graphene<3
+flask==2.2.3
+Flask-GraphQL==2.0.1
+sqlalchemy
+graphene-sqlalchemy
